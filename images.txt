@@ -1,4 +1,2 @@
 nginx
 openjdk:8
-sonarqube:9.0-community
-jenkins/jenkins:jdk17
