@@ -1,2 +1,2 @@
 nginx
-openjdk:8
+openjdk:27-ea-nanoserver-ltsc2025
