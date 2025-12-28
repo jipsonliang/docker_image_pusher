@@ -1,2 +1,1 @@
-nginx
-sonarqube:8.9.3-community
+tomcat:9.0-jdk8-corretto
